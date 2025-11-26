@@ -1,0 +1,13 @@
+.{
+    .name = .elf,
+    .version = "0.0.1",
+    .fingerprint = 0xdcc4301f88e45deb,
+    .minimum_zig_version = "0.15.2",
+    .paths = .{
+        "README.md",
+        "LICENSE",
+        "build.zig.zon",
+        "build.zig"
+        "src",
+    },
+}
